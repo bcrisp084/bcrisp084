@@ -6,9 +6,15 @@ Web Developer and Technician
 
 I have been a technician for 15 years and 2 years ago I embarked on a coding journey and have not looked back since.
 
-*   🌍  I'm based in Maryland
-*   ✉️  You can contact me at [bcrisp084@yahoo.com](mailto:bcrisp084@yahoo.com)<a href="https://www.github.com/bcrisp084" target="_blank" rel="noreferrer"><img
-                  src="https://img.shields.io/github/followers/bcrisp084?logo=github&style=for-the-badge&color=0891b2&labelColor=1c1917" /></a>### Skills 
+* 🌍  I'm based in Maryland
+* ✉️  You can contact me at [bcrisp084@yahoo.com](mailto:bcrisp084@yahoo.com)
+
+<a href="https://www.github.com/bcrisp084" target="_blank" rel="noreferrer"><img
+src="https://img.shields.io/github/followers/bcrisp084?logo=github&style=for-the-badge&color=0891b2&labelColor=1c1917" /></a>
+
+### Skills
+
+
 <p align="left">
 <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/javascript-colored.svg" width="36" height="36" alt="JavaScript" /></a>
 <a href="https://developer.mozilla.org/en-US/docs/Glossary/HTML5" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/html5-colored.svg" width="36" height="36" alt="HTML5" /></a>
@@ -24,13 +30,16 @@ I have been a technician for 15 years and 2 years ago I embarked on a coding jou
 <a href="https://www.heroku.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/heroku-colored.svg" width="36" height="36" alt="Heroku" /></a>
 <a href="https://www.figma.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/figma-colored.svg" width="36" height="36" alt="Figma" /></a>
 </p>
-                    
-                  ### Socials
-                  
-                  
-                <p align="left">
-                          
-                      <a href="https://www.github.com/bcrisp084" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /></a>
-                          
-                      <a href="https://www.linkedin.com/in/brian-crisp-265a39204/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a></p>### Badges<b>My GitHub Stats</b><a
-                      href="http://www.github.com/bcrisp084"><img src="https://github-readme-stats.vercel.app/api?username=bcrisp084&show_icons=true&hide=&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&show_icons=true" alt="bcrisp084's GitHub stats" /></a><a href="https://github.com/bcrisp084" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=bcrisp084&langs_count=10&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
+
+
+### Socials
+
+<p align="left"> <a href="https://www.github.com/bcrisp084" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /></a> <a href="https://www.linkedin.com/in/brian-crisp-265a39204/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a></p>
+
+### Badges
+
+<b>My GitHub Stats</b>
+
+<a href="http://www.github.com/bcrisp084"><img src="https://github-readme-stats.vercel.app/api?username=bcrisp084&show_icons=true&hide=&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&show_icons=true" alt="bcrisp084's GitHub stats" /></a>
+
+<a href="https://github.com/bcrisp084" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=bcrisp084&langs_count=10&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
