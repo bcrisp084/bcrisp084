@@ -9,8 +9,6 @@ I have been a technician for 15 years and 2 years ago I embarked on a coding jou
 * 🌍  I'm based in Maryland
 * ✉️  You can contact me at [bcrisp084@yahoo.com](mailto:bcrisp084@yahoo.com)
 
-<a href="https://www.github.com/bcrisp084" target="_blank" rel="noreferrer"><img
-src="https://img.shields.io/github/followers/bcrisp084?logo=github&style=for-the-badge&color=0891b2&labelColor=1c1917" /></a>
 
 ### Skills
 
