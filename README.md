@@ -9,9 +9,6 @@ I entered a boot camp to become a software developer and loved it. Now I work as
 * 🌍  I'm based in Maryland
 * ✉️  You can contact me at [bcrisp084@yahoo.com](mailto:bcrisp084@yahoo.com)
 
-<a href="https://www.github.com/bcrisp084" target="_blank" rel="noreferrer"><img
-src="https://img.shields.io/github/followers/bcrisp084?logo=github&style=for-the-badge&color=0891b2&labelColor=1c1917" /></a>
-
 ### Skills
 
 
