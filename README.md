@@ -8,6 +8,7 @@ I entered a boot camp to become a software developer and loved it. Now I work as
 
 * 🌍  I'm based in Maryland
 * ✉️  You can contact me at [bcrisp084@yahoo.com](mailto:bcrisp084@yahoo.com)
+* Please view my professional portfolio at [mrbriancrisp.com](https://www.mrbriancrisp.com)
 
 ### Skills
 
